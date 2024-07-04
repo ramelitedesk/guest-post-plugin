@@ -1,1 +1,22 @@
+<?php
 
+/**
+ * The admin-specific functionality of the plugin.
+ *
+ * @link       http://localhost/
+ * @since      1.0.0
+ *
+ * @package    guest_posts
+ * @subpackage guest_posts/includes
+ */
+
+/**
+ * The admin-specific functionality of the plugin.
+ *
+ * Defines the plugin name, version, and two examples hooks for how to
+ * enqueue the admin-specific stylesheet and JavaScript.
+ *
+ * @package    guest_posts
+ * @subpackage guest_posts/includes
+ * @author     RK <ramelitedesk@gmail.com>
+ */
